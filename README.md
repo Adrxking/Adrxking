@@ -19,16 +19,17 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -43,7 +44,10 @@
 <!-- ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp; -->
 <!-- ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp; -->
 <!-- ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign) -->
-
+<br>
+<br>
+<br>
+<br>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
